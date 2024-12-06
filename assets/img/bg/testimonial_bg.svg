@@ -1,0 +1,34 @@
+<svg width="559" height="265" viewBox="0 0 559 265" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="559" height="265" fill="url(#paint0_linear_225_5)"/>
+<mask id="mask0_225_5" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="559" height="265">
+<rect width="559" height="265" fill="url(#paint1_linear_225_5)"/>
+</mask>
+<g mask="url(#mask0_225_5)">
+<g opacity="0.2" filter="url(#filter0_f_225_5)">
+<path d="M29.5 40.5001C17.1 17.7001 -4 17.6667 -13 20.5001V48.5C-9 91.3 30.3333 85 49.5 76.5C79.1 46.9 48.5 40.1667 29.5 40.5001Z" fill="#436CFF"/>
+</g>
+<g opacity="0.1" filter="url(#filter1_f_225_5)">
+<path d="M556.5 180.279C544.1 157.479 523 157.446 514 160.279V188.279C518 231.079 557.333 224.779 576.5 216.279C606.1 186.679 575.5 179.946 556.5 180.279Z" fill="#FF6D5A"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_f_225_5" x="-67" y="-34.7788" width="182.824" height="171.442" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="27" result="effect1_foregroundBlur_225_5"/>
+</filter>
+<filter id="filter1_f_225_5" x="460" y="105" width="182.825" height="171.442" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="27" result="effect1_foregroundBlur_225_5"/>
+</filter>
+<linearGradient id="paint0_linear_225_5" x1="-130" y1="-89.2631" x2="521.402" y2="305.581" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F2F6FF"/>
+<stop offset="1" stop-color="#FFFBF1"/>
+</linearGradient>
+<linearGradient id="paint1_linear_225_5" x1="-130" y1="-89.2631" x2="521.402" y2="305.581" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F2F6FF"/>
+<stop offset="1" stop-color="#FFFBF1"/>
+</linearGradient>
+</defs>
+</svg>
